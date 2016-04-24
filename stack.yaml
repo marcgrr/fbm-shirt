@@ -1,0 +1,14 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- friday-0.2.2.0
+- friday-juicypixels-0.1.1
+- gloss-1.10.1.1
+- gloss-raster-1.10.1.1
+- gloss-rendering-1.10.1.1
+- monad-memo-0.4.1
+- ratio-int-0.1.2
+- threepenny-gui-0.6.0.6
+resolver: lts-5.13
