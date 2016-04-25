@@ -18,6 +18,11 @@ library
   exposed-modules:     Lib
                      , Perlin
                      , Fractal
+                     , Repas
+                     , Water
+                     , Gradient
+                     , VectorField
+                     , Smooth
   build-depends:       base >= 4.7 && < 5
                      , threepenny-gui
                      , friday
